@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+node_modules/
+
+worker-gill-backup.js
+run-tests.js
+test-chats/
+test-replies*.json
+test-results*.md
+site/index-gill-backup.html
+site/index-gill-preserved.html
+site/index-before-photos.html
